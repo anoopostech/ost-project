@@ -1,3 +1,6 @@
 <?php
+echo "My name is Anoop Manish";
 
-echo "My name is Anoop";
+echo "Vijay";
+
+echo "Rajni";
